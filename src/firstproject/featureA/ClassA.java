@@ -6,6 +6,6 @@ public class ClassA {
 		System.out.println(string);
 	}
 	private void aAAA() {
-		
+		System.out.println("");
 	}
 }
